@@ -70,6 +70,23 @@ The Full20 OFF/ON comparison showed:
 
 Interpretation: the compressed path preserved quality in this benchmark and did not worsen answer correctness.
 
+## Figures
+
+### Token reduction
+
+![Token reduction](figures/token_reduction.png)
+
+### Answer quality
+
+![Answer quality](figures/benchmark_quality.png)
+
+### Compression ratio
+
+![Compression ratio](figures/compression_ratio.png)
+
+### ROI estimate
+
+![ROI estimate](figures/roi.png)
 ### 3.2 Token compression and ROI
 
 The project-native compression benchmark reported:
