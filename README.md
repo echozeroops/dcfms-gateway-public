@@ -1,3 +1,13 @@
+## What is DCFMS Gateway?
+
+DCFMS Gateway is an experimental context-reduction layer for Large Language Model workflows.
+
+Instead of sending an entire corpus to an LLM, the system selects and compresses the most relevant context before inference.
+
+The goal is to reduce token usage, reduce data exposure, and preserve answer quality.
+
+
+
 # DCFMS Gateway
 
 DCFMS Gateway is an experimental context-reduction layer for Large Language Model workflows.
