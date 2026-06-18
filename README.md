@@ -1,17 +1,26 @@
 # DCFMS Gateway
 
-Public whitepaper and benchmark summary for DCFMS Gateway.
+DCFMS Gateway is an experimental context-reduction layer for Large Language Model workflows.
+
+It is designed to reduce:
+
+- token usage,
+- context noise,
+- data exposure,
+- LLM operating cost,
+
+while preserving answer quality.
 
 ## Official Publication
 
-DOI: 10.5281/zenodo.20746841
+The full whitepaper is published on Zenodo:
 
-Zenodo Record:  
+**DCFMS Gateway: Context Compression and Data Exposure Reduction for Large Language Model Workflows**
+
+**DOI:** 10.5281/zenodo.20746841
+
+**Zenodo Record:**  
 https://zenodo.org/records/20746841
-
-## Whitepaper
-
-[Download PDF](./DCFMS_Gateway_Whitepaper_v1.pdf)
 
 ## Key Results
 
@@ -26,15 +35,21 @@ https://zenodo.org/records/20746841
 
 ## Scope
 
-This repository contains only the public whitepaper and benchmark summary.
+This repository is only a public landing page for the DCFMS Gateway publication.
 
-It does not include source code, implementation details, private datasets, or internal project files.
+It does not include:
+
+- source code,
+- implementation details,
+- private datasets,
+- internal project files,
+- benchmark raw data.
+
+## Project Website
+
+https://gateway.echozeroops.com
 
 ## Contact
 
-Project website:  
-https://gateway.echozeroops.com
-
-Contact:  
 echozero@riseup.net  
 3echo@riseup.net
