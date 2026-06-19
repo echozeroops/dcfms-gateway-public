@@ -1,3 +1,8 @@
+## Semantic Field Collapse Animation
+
+![DCFMS Semantic Field Animation](../figures/dcfms_surface.gif)
+
+
 ## What is DCFMS Gateway?
 
 DCFMS Gateway is an experimental context-reduction layer for Large Language Model workflows.
