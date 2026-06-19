@@ -32,13 +32,6 @@ The full whitepaper is published on Zenodo:
 **Zenodo Record:**  
 https://zenodo.org/records/20746841
 
-## Publications
-
-### Main publication
-DCFMS Gateway: Context Compression and Data Exposure Reduction for Large Language Model Workflows
-
-https://zenodo.org/records/20746841
-
 ### Supplementary Technical Note
 DCFMS Gateway Supplementary Technical Note: Semantic Field Localization, Active Attractors, Region Coordinates and Context Construction
 
