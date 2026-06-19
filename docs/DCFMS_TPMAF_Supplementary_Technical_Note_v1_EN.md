@@ -1,3 +1,20 @@
+DCFMS Gateway Supplementary Technical Note
+Semantic Field Localization, Active Attractors, Region Coordinates and Context Construction
+Stefan Lankiewicz (3echo)
+June 2026
+Related publication:
+DCFMS Gateway: Context Compression and Data Exposure Reduction for Large Language Model Workflows
+DOI: 10.5281/zenodo.20746841
+Project website:
+                       https://gateway.echozeroops.com
+Contact: echozero@riseup.net 3echo@riseup.net
+
+Abstract
+This supplementary technical note describes DCFMS Gateway as a semantic-field localization layer operating before a language model. The document focuses on the mechanics of semantic-field topol- ogy, query perturbation, TPMAF-driven collapse, active attractor formation, region coordinates, and local context construction.
+In this approach, the primary operational unit is not a document, a chunk, or a classical retrieval result. The primary operational unit is a localized region of the semantic field. A user query is interpreted as a perturbation of that field. The TPMAF operator then performs semantic collapse and identifies the active region associated with the query.
+Only after this localization process has completed is context constructed for the language model. The model does not receive the full knowledge base, the complete semantic manifold, or the entire information topology. Instead, it receives only the coordinates of the active region and the local context associated with that region.
+The reduction of transmitted tokens, the reduction of irrelevant information, and the reduction of external data exposure are treated as consequences of semantic-field localization rather than as primary objectives. This note therefore complements the main DCFMS Gateway publication by describing the region-based mechanism that precedes answer generation.
+
 # 1. Introduction
 
 Modern systems that assist language models are usually based on the assumption that the answer is contained in a document or in a fragment of a document. The system's task is therefore to identify the most relevant information sources and then pass them to the language model.
