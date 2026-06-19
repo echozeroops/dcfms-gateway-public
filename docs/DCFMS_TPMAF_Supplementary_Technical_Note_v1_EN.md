@@ -2,6 +2,9 @@
                              DCFMS Gateway Supplementary Technical Note
         Semantic Field Localization, Active Attractors, Region Coordinates and Context Construction
 
+        **Zenodo publication:**
+https://zenodo.org/records/20751660
+
 Stefan Lankiewicz 
 (3echo)
 
