@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="dcfms-gateway-hero.png" alt="DCFMS Gateway - Semantic Field Collapse for Local Context Compression" width="100%">
+</p>
+
+<h1 align="center">DCFMS Gateway</h1>
+
+<p align="center">
+  <strong>Semantic Field Collapse for Local Context Compression</strong>
+</p>
+
+<p align="center">
+  Local-first context compression layer for LLM workflows.
+</p>
+
+---
+
+
+
 ## Semantic Field Collapse Animation
 
 ![DCFMS Semantic Field Animation](../figures/dcfms_surface.gif)
